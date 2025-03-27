@@ -1,6 +1,7 @@
 # Instructions for jme Uncertainty Calculations
 
 ```bash
+cd testK
 python3 submit_jme_2017.py
 python3 submit_jme_2018.py
 ```
