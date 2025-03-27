@@ -1,3 +1,27 @@
+# Instructions for jme Uncertainty Calculations
+
+```bash
+python3 submit_jme_2017.py
+python3 submit_jme_2018.py
+```
+
+**In case there are fails:**
+
+```bash
+python3 resubmit_jobs.py
+```
+
+==Edit as much as needed.==
+
+&nbsp;
+
+&nbsp;
+
+Below is the README from nanoAOD-tools
+----------------------------------------------------------------------------------------------------------------
+
+
+
 # nanoAOD-tools
 A minimal set of tool for working with NanoAODs (with dependencies on only python + root, not on the CMSSW framework)
 
